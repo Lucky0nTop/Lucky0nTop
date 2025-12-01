@@ -1,4 +1,5 @@
 <div align="center">
+
   
 # 👋 ¡Hola! Soy Jhon Anderson Vargas Gómez
 
@@ -66,6 +67,31 @@ Mi enfoque combina el **pensamiento analítico** con la **creatividad técnica**
 
 ---
 
+## 📚 Actualmente Aprendiendo
+
+<div align="center">
+
+*Tecnologías de Big Data & Data Engineering que estoy explorando:*
+
+</div>
+
+### Big Data & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### Bases de Datos & Almacenamiento
+![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+### Orquestación & Pipelines
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### Plataformas & Lenguajes
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+---
+
 ## 🏆 Proyectos Destacados
 
 ### 🫁 [Clasificación de Nódulos Pulmonares](https://github.com/Lucky0nTop/IA-2)
@@ -106,10 +132,10 @@ Sistema de predicción de enfermedad cardíaca usando múltiples algoritmos de M
 <div align="center">
 
 <a href="https://github.com/Lucky0nTop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucky0nTop&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucky0nTop&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Lucky0nTop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky0nTop&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky0nTop&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 </a>
 
 <br/>
