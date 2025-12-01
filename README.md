@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **Ingeniero de Sistemas Junior** apasionado por transformar datos en soluciones que generen impacto real en el mundo. Creo firmemente que los datos son el nuevo petróleo, y mi misión es **explotarlos de manera inteligente** para crear herramientas y sistemas que aporten valor a las personas y organizaciones.
+Soy un **Ingeniero de Sistemas Junior** apasionado por transformar datos en soluciones que generen impacto real en el mundo. Creo firmemente que los datos son esenciales, y mi misión es **explotarlos de manera inteligente** para crear herramientas y sistemas que aporten valor a las personas y organizaciones.
 
 > *"Los datos no son solo números, son historias esperando ser contadas y problemas esperando ser resueltos."*
 
@@ -28,7 +28,7 @@ Mi enfoque combina el **pensamiento analítico** con la **creatividad técnica**
 |:---:|:---:|:---:|
 | Machine Learning | Procesamiento de Datos | Visualización |
 | Deep Learning | Feature Engineering | Insights de Negocio |
-| Redes Neuronales | Modelado Predictivo | Reportes Analíticos |
+| LLM's | Modelado Predictivo | Reportes Analíticos |
 
 </div>
 
@@ -44,7 +44,7 @@ Mi enfoque combina el **pensamiento analítico** con la **creatividad técnica**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logoColor=white)
+
 
 ### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -99,24 +99,24 @@ Sistema de predicción de enfermedad cardíaca usando múltiples algoritmos de M
 
 📺 [Ver Demo en YouTube](https://youtu.be/T4YdAMRtEiI)
 
----
 
-### 📝 [Traductor Braille-Español](https://github.com/Lucky0nTop/Proyecto-Automatas-y-Lenguajes-Formales)
-> **Accesibilidad e Inclusión** | Autómatas para la comunicación
-
-Desarrollo de un traductor de Braille a Español utilizando teoría de autómatas y lenguajes formales, contribuyendo a la accesibilidad para personas con discapacidad visual.
-
-📺 [Ver Demo en YouTube](https://www.youtube.com/watch?v=M2QAzwmfuyw)
-
----
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucky0nTop&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky0nTop&layout=compact&theme=radical&hide_border=true)
+<a href="https://github.com/Lucky0nTop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucky0nTop&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Lucky0nTop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky0nTop&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Lucky0nTop">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucky0nTop&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -124,21 +124,7 @@ Desarrollo de un traductor de Braille a Español utilizando teoría de autómata
 
 ## 🎯 Mi Filosofía
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "Cada dato cuenta una historia. Mi trabajo es escucharla,      ║
-║    entenderla y transformarla en soluciones que impacten         ║
-║    positivamente en la vida de las personas."                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-Estoy constantemente buscando nuevos desafíos donde pueda aplicar mis conocimientos en **IA, ciencia de datos y análisis** para resolver problemas reales. Si tienes un proyecto interesante o simplemente quieres conectar, ¡no dudes en contactarme!
+Estoy constantemente buscando nuevos desafíos donde pueda aplicar mis conocimientos en **IA, ciencia de datos y análisis** para resolver problemas reales. Si tienes un proyecto interesante o simplemente quieres conectar, ¡No dudes en contactarme!
 
 ---
 
@@ -146,13 +132,9 @@ Estoy constantemente buscando nuevos desafíos donde pueda aplicar mis conocimie
 
 <div align="center">
 
-📧 **Email:** *(Agregar email de contacto)*
-💼 **LinkedIn:** *(Agregar perfil de LinkedIn)*
-🐙 **GitHub:** [@Lucky0nTop](https://github.com/Lucky0nTop)
-
----
-
-⭐ *"Los datos disponibles son el recurso más valioso del siglo XXI. Mi compromiso es explotarlos de manera ética e inteligente para crear soluciones que aporten al mundo."*
+[![Email](https://img.shields.io/badge/Email-jhonandersonvargas6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonandersonvargas6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhon_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-vargas-9a44b1323)
+[![GitHub](https://img.shields.io/badge/GitHub-Lucky0nTop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucky0nTop)
 
 </div>
 
@@ -161,6 +143,8 @@ Estoy constantemente buscando nuevos desafíos donde pueda aplicar mis conocimie
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Lucky0nTop&color=blueviolet&style=flat-square)
+
+⭐ **¡Si te gusta mi trabajo, considera darle una estrella a mis repositorios!** ⭐
 
 *Última actualización: Diciembre 2025*
 
